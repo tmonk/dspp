@@ -24,7 +24,7 @@ This course is designed as an intensive two-week introduction to programming and
 
 There is not an assigned textbook for this course, but [Automate the Boring Stuff in Python](https://automatetheboringstuff.com/) is a well written, free resource. It will cover everything we discuss in class, at least the Python side, and allow you to dive as deep as you wish into the language. 
 
-## Course Outline - very preliminary
+## Course Outline - subject to change
 
 
 | Date                        | Class        | Content I                              | Content II                                             | Application                              | Resource                                                                           |

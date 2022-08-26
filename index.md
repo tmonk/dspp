@@ -7,6 +7,9 @@ The two week course will take students from the first principles of Python progr
 ### Prerequisites 
 A pass mark in PP455, or equivalent. 
 
+### Schedule 
+We meet daily 11:00-13:00 in NAB 2.09, with an aditional class schedueled on Tuesday, 30 August 2022 from 14:00-16:00.
+
 
 ## Syllabus
 This course is designed as an intensive two-week introduction to programming and data science for public policy students. The content covered will include:
@@ -27,12 +30,12 @@ There is not an assigned textbook for this course, but [Automate the Boring Stuf
 | Date                        | Class        | Content I                              | Content II                                             | Application                              | Resource                                                                           |
 | --------------------------- | ------------ | -------------------------------------- | ----------------------------------------------------- | -------------------------------------- | ---------------------------------------------------------------------------------- |
 | Tuesday, 30 August 2022     | Class 1 - AM | Intro to Programming                   | Python basics                                         |                                        |                                                                                    |
-| Tuesday, 30 August 2022     | Class 2 - PM | Functions                              | Iterations and loops                                  | Make an automatic calculator!          | [https://github.com/harris-ippp/s18-a02/](https://github.com/harris-ippp/s18-a02/) |
+| Tuesday, 30 August 2022     | Class 2 - PM | Functions                              | Iterations and loops                                  | Make an automatic calculator!          | |
 | Wednesday, 31 August 2022   | Class 3      | Lists and strings                      | Dictionaries                                          |                                        |                                                                                    |
 | Thursday, 1 September 2022  | Class 4      | Data manipulation                      | Data manipulation - practical                         | IPUMS USA census data  | https://usa.ipums.org/usa/   |
 | Friday, 2 September 2022    | Class 5      | Project: Matching estimator        | Project: Matching estimator                       | Construst the match                    |                                                                                    |
 | Monday, 5 September 2022    | Class 6      | Numpy and Pandas intoduction           | Data Visualization with Python: matplotlib and pandas | Database manipulation with pandas           | Eurostat: https://ec.europa.eu/eurostat                    |
 | Tuesday, 6 September 2022   | Class 7      | More pandas (I)                        |                                                       | More pandas (II) - Application         | O\*NET: https://www.onetonline.org/                                                                        |
 | Wednesday, 7 September 2022 | Class 8      | Statsmodels                            | Application: Reproduction                             | Reproduce PS8 from PP455 in Python     |                                                                                    |
-| Thursday, 8 September 2022  | Class 9      | Web scraping/NLP                           | Web scraping/NLP                                          |   Sentiment analysis - Twitter?                               |                                                                                    |
-| Friday, 9 September 2022    | Class 10     | Looking forward: Frank's cool examples | Looking forward: Neural networks, my research                  |                                        |                                                                                    |
+| Thursday, 8 September 2022  | Class 9      | Web scraping/NLP                           | Web scraping/NLP                                          |   Sentiment analysis                            |                                                                                    |
+| Friday, 9 September 2022    | Class 10     | Looking forward: Machine learning | Looking forward: Applied machine learning                |       The Impact of AI on the Labour Market                                 |         Webb (2020), https://www.michaelwebb.co/webb_ai.pdf                                                                           |

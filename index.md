@@ -15,7 +15,7 @@ We meet daily 11:00-13:00 in NAB 2.09, with an aditional class schedueled on Tue
 This course is designed as an intensive two-week introduction to programming and data science for public policy students. The content covered will include:
 
 - Programming in a setting of public policy - why should we care?
-- Thinking alogrithmically, taking policy questions to the data via a general purpose programming language.
+- Thinking algorithmically, taking policy questions to the data via a general purpose programming language.
 - Fundamentals of programming: code syntax, libraries, variables, data types, program control, functions and IO.
 - Data science through open-source python libraries. Cleaning, obtaining  and analysing structured data.
 - Introducing more advanced applications, such as web scraping and natural language processing.

@@ -27,6 +27,7 @@ There is not an assigned textbook for this course, but [Automate the Boring Stuf
 ## Lecture Slides & Problem Sets
 - [Class 1](https://raw.githubusercontent.com/tmonk/dspp/main/Class%201/DSPP___Class_1-3.pdf) - introduction to data science from the perspective of public policy
 - [Class 2](https://github.com/tmonk/dspp/tree/main/Class%202/PS) - problems on variables, functions and conditionals
+- [Class 3](https://github.com/tmonk/dspp/tree/main/Class%203/PS) - problems on lists, strings and loops.
 
 
 ## Course Outline - subject to change

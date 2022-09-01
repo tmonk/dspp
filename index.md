@@ -26,9 +26,10 @@ There is not an assigned textbook for this course, but [Automate the Boring Stuf
 
 ## Lecture Slides & Problem Sets
 - [Class 1](https://raw.githubusercontent.com/tmonk/dspp/main/Class%201/DSPP___Class_1-3.pdf) - introduction to data science from the perspective of public policy
-- [Class 2](https://github.com/tmonk/dspp/tree/main/Class%202/PS) - problems on variables, functions and conditionals
-- [Class 3](https://github.com/tmonk/dspp/tree/main/Class%203/PS) - problems on lists.
-- [Class 4](https://github.com/tmonk/dspp/tree/main/Class%204/PS) - problems on loops, and the Chicago employee assignment.
+- [Class 2](https://github.com/tmonk/dspp/tree/main/Class%202) - variables, functions and conditionals
+- [Class 3](https://github.com/tmonk/dspp/tree/main/Class%203) - lists and strings.
+- [Class 4](https://github.com/tmonk/dspp/tree/main/Class%204) - loops and other flow controls.
+- [Class 5](https://github.com/tmonk/dspp/tree/main/Class%205) - project.
 
 
 ## Course Outline - subject to change
@@ -39,8 +40,8 @@ There is not an assigned textbook for this course, but [Automate the Boring Stuf
 | Tuesday, 30 August 2022     | Class 1 - AM | Intro to Programming                   | Python basics                                         |               Setting up the Python environment                         |                                                                                    |
 | Tuesday, 30 August 2022     | Class 2 - PM | Python basics                              | Functions & conditionals                                  |    Working with notebooks       | |
 | Wednesday, 31 August 2022   | Class 3                    | Lists, strings and dictionaries         | Loops and list comprehensions                                |                                        |                                                                                    |
-| Thursday, 1 September 2022  | Class 4      | Loops                      | Real data practical!                         | Chicago employee data  |   |
-| Friday, 2 September 2022    | Class 5      | Pandas        | Pandas - practical                      | IPUMS USA census data  | https://usa.ipums.org/usa/                    |                                                                                    |
+| Thursday, 1 September 2022  | Class 4      | Recap: lists, strings and dictionaries                      | Loops                         |     |
+| Friday, 2 September 2022    | Class 5      | Practical project        | Practical project                      | Chicago employee data  |                     |                                                                                    |
 | Monday, 5 September 2022    | Class 6      | NumPy and Pandas           | Data Visualization with Python: matplotlib and pandas | Database manipulation with pandas           | Eurostat: https://ec.europa.eu/eurostat O\*NET: https://www.onetonline.org/                             |
 | Tuesday, 6 September 2022   | Class 7      | Statsmodels                            | Application: Reproduction                             | Reproduce PS8 from PP455 in Python     |                                                                                    |                                                         |
 | Wednesday, 7 September 2022 | Class 8      | Web scraping                            | Application: Web scraping                             |   Twitter  |                                                                                    |

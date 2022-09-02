@@ -1,6 +1,6 @@
 ## Course overview
 
-Instructor: Thomas Monk (t.d.<span style="display:none">spam</span>monk@lse.ac.uk)
+Instructor: [Thomas Monk](https://personal.lse.ac.uk/monkt/) (t.d.<span style="display:none">spam</span>monk@lse.ac.uk)
  
 This short course will introduce students to the Python programming language as a tool for applied data science. In PP455 we utilised Stata, the primary environment used by economists and public policy academics for regression analysis. Python is a more general-purpose tool from which we can perform a range of tasks, from data cleaning, transformation, and visualisation to more advanced techniques on the social science research frontier, such as natural language processing and machine learning.
 

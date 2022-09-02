@@ -20,7 +20,7 @@ This course is designed as an intensive two-week introduction to programming and
 - Data science through open-source python libraries. Cleaning, obtaining and analysing structured data.
 - Introducing more advanced applications, such as web scraping and natural language processing.
 
-## Course companion
+## Additional material
 
 There is not an assigned textbook for this course, but [Automate the Boring Stuff in Python](https://automatetheboringstuff.com/) is a well written, free resource. It will cover everything we discuss in class, at least the Python side, and allow you to dive as deep as you wish into the language. 
 

@@ -35,6 +35,7 @@ I'm grateful to Eric Potash, whose University of Chicago 30550 course provided a
 - [Class 4](https://github.com/tmonk/dspp/tree/main/Class%204) - loops and other flow controls.
 - [Class 5](https://github.com/tmonk/dspp/tree/main/Class%205) - data assignment.
 - [Class 6](https://github.com/tmonk/dspp/tree/main/Class%206) - introduction to NumPy and Pandas.
+- [Class 7](https://github.com/tmonk/dspp/tree/main/Class%207) - more advanced Pandas, merging.
 
 <!-- IPUMS USA census data 	https://usa.ipums.org/usa/ -->
 ## Course Outline - subject to change

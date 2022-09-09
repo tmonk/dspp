@@ -26,7 +26,7 @@ This course is designed as an intensive two-week introduction to programming and
 
 There is not an assigned textbook for this course, but [Automate the Boring Stuff in Python](https://automatetheboringstuff.com/) is a well written, free resource. It will cover everything we discuss in class, at least the Python side, and allow you to dive as deep as you wish into the language. 
 
-I'm grateful to Eric Potash, whose University of Chicago 30550 course provided an excellent basis for the material presented here. The course website offers some useful extension exercises to the problem sets we have covered in class: [https://harris-ippp.github.io](https://harris-ippp.github.io).
+I'm grateful to Eric Potash, whose University of Chicago 30550 course provided an excellent basis for the programming material presented here. The course website offers some useful extension exercises to the problem sets we have covered in class: [https://harris-ippp.github.io](https://harris-ippp.github.io).
 
 ## Lecture Slides & Problem Sets
 - [Class 1](https://raw.githubusercontent.com/tmonk/dspp/main/Class%201/DSPP___Class_1-3.pdf) - introduction to data science from the perspective of public policy

@@ -20,7 +20,7 @@ This course is designed as an intensive two-week introduction to programming and
 - Thinking algorithmically, taking policy questions to the data via a general-purpose programming language.
 - Fundamentals of programming: code syntax, libraries, variables, data types, program control, functions, and IO.
 - Data science through open-source python libraries. Cleaning, obtaining and analysing structured data.
-- Introducing more advanced applications, such as web scraping and natural language processing.
+- Introducing more advanced applications, such as natural language processing and machine learning.
 
 ## Additional material
 
@@ -36,19 +36,29 @@ I'm grateful to Eric Potash, whose University of Chicago 30550 course provided a
 - [Class 5](https://github.com/tmonk/dspp/tree/main/Class%205) - data assignment.
 - [Class 6](https://github.com/tmonk/dspp/tree/main/Class%206) - introduction to NumPy and Pandas.
 - [Class 7](https://github.com/tmonk/dspp/tree/main/Class%207) - more advanced Pandas, merging.
+- [Class 8](https://github.com/tmonk/dspp/tree/main/Class%208) - text as data, sentiment analysis.
+- [Class 9](https://github.com/tmonk/dspp/tree/main/Class%209%20%26%2010) - introduction to machine learning concepts, relation to causal inference with linear models.
+- [Class 10](https://github.com/tmonk/dspp/tree/main/Class%209%20%26%2010) - machine learning with non-linear models.
 
 <!-- IPUMS USA census data 	https://usa.ipums.org/usa/ -->
-## Course Outline - subject to change
+## Course Outline
 
-| Date                        | Class        | Content I                              | Content II                                            | Application                           | Resource                                                                    |
-|-----------------------------|--------------|----------------------------------------|-------------------------------------------------------|---------------------------------------|-----------------------------------------------------------------------------|
+| Date                        | Class        | Content I                              | Content II                                            | Application                           |
+|-----------------------------|--------------|----------------------------------------|-------------------------------------------------------|---------------------------------------|
 | Tuesday, 30 August 2022     | Class 1 - AM | Intro to Programming                   | Python basics                                         | Setting up the Python environment     |                                                                             |
 | Tuesday, 30 August 2022     | Class 2 - PM | Python basics                          | Functions & conditionals                              | Working with notebooks                |                                                                             |
 | Wednesday, 31 August 2022   | Class 3      | Lists, strings and dictionaries        | Loops and list comprehensions                         |                                       |                                                                             |
 | Thursday, 1 September 2022  | Class 4      | Recap: lists, strings and dictionaries | Loops                                                 |                                       |                                                                             |
-| Friday, 2 September 2022    | Class 5      | Practical project                      | Practical project                                     | Chicago employee data                 |                                                                             |
-| Monday, 5 September 2022    | Class 6      | NumPy and Pandas                       | Data Visualization with Python: matplotlib and pandas | Database manipulation with pandas     | Eurostat: https://ec.europa.eu/eurostat O\*NET: https://www.onetonline.org/ |
-| Tuesday, 6 September 2022   | Class 7      | Statsmodels                            | Application: Reproduction                             | Reproduce PS8 from PP455 in Python    |                                                                             |
-| Wednesday, 7 September 2022 | Class 8      | Web scraping                           | Application: Web scraping                             | Twitter                               |                                                                             |
-| Thursday, 8 September 2022  | Class 9      | NLP                                    | NLP                                                   | Sentiment analysis                    |                                                                             |
-| Friday, 9 September 2022    | Class 10     | Looking forward: Machine learning      | Looking forward: Applied machine learning             | The Impact of AI on the Labour Market | Webb (2020), https://www.michaelwebb.co/webb_ai.pdf                         |
+| Friday, 2 September 2022    | Class 5      | Data assignment                      | Data assignment                                     | Chicago city employee data                 |                                                                             |
+| Tuesday, 6 September 2022    | Class 6      | NumPy                      | Introduction to Pandas  |  |
+| Wednesday, 7 September 2022   | Class 7      | More advanced Pandas                            | Merging with Pandas                             | Chicago city employee data    |                                                                             |
+| Thursday, 8 September 2022 | Class 8      | Text as Data                           | Sentiment analysis                             | Twitter                               |                                                                             |
+| Friday, 9 September 2022 AM  | Class 9      | Introduction to machine learning - linear model                                  | Applied machine learning task                                                   | House price data                    |                                                                             |
+| Friday, 9 September 2022 PM    | Class 10     | Machine learning: non-linear models      | Applied machine learning: Random Forests and XGBoost             | House price data: better predictions?                       |
+
+
+## Resource list
+
+### Programming, Numpy and Pandas
+- Eric Potash, 30550 course at UChicago: https://harris-ippp.github.io/
+- Kaggle Python Tutorial: https://www.kaggle.com/learn/python

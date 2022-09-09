@@ -53,8 +53,8 @@ I'm grateful to Eric Potash, whose University of Chicago 30550 course provided a
 | Tuesday, 6 September 2022    | Class 6      | NumPy                      | Introduction to Pandas  |  |
 | Wednesday, 7 September 2022   | Class 7      | More advanced Pandas                            | Merging with Pandas                             | Chicago city employee data    |                                                                             |
 | Thursday, 8 September 2022 | Class 8      | Text as Data                           | Sentiment analysis                             | Twitter                               |                                                                             |
-| Friday, 9 September 2022 AM  | Class 9      | Introduction to machine learning - linear model                                  | Applied machine learning task                                                   | House price data                    |                                                                             |
-| Friday, 9 September 2022 PM    | Class 10     | Machine learning: non-linear models      | Applied machine learning: Random Forests and XGBoost             | House price data: better predictions?                       |
+| Friday, 9 September 2022  | Class 9 - AM    | Introduction to machine learning - linear model                                  | Applied machine learning task                                                   | House price data                    |                                                                             |
+| Friday, 9 September 2022 PM    | Class 10 - PM     | Machine learning: non-linear models      | Applied machine learning: Random Forests and XGBoost             | House price data: better predictions?                       |
 
 
 ## Resource list

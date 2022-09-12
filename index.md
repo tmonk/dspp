@@ -4,9 +4,9 @@ Instructor: [Thomas Monk](https://personal.lse.ac.uk/monkt/) (t.d.<span style="d
 
 <sup> Room 2.01 H, Centre for Economic Performance, London School of Economics
  
-This short course will introduce students to the Python programming language as a tool for applied data science. In PP455 we utilised Stata, the primary environment used by economists and public policy academics for regression analysis. Python is a more general-purpose tool from which we can perform a range of tasks, from data cleaning, transformation, and visualisation to more advanced techniques on the social science research frontier, such as natural language processing and machine learning.
+This intensive course will introduce students to the Python programming language as a tool for applied data science. In PP455 we utilised Stata, the primary environment used by economists and public policy academics for regression analysis. Python is a more general-purpose tool from which we can perform a range of tasks, from data cleaning, transformation, and visualisation to more advanced techniques on the social science research frontier, such as natural language processing and machine learning.
 
-The two-week course will take students from the first principles of Python programming to the application of data science packages such as NumPy and Pandas. Each class will be practical and hands-on, with the course focusing on the application of these tools in the public policy space.
+The two-week course, containing a semester's worth of material, will take students from the first principles of Python programming to the application of data science packages such as NumPy and Pandas. Each class will be practical and hands-on, with the course focusing on the application of these tools in the public policy space.
  
 ### Prerequisites 
 A pass mark in PP455, or equivalent.

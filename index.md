@@ -55,7 +55,7 @@ This course is designed as an intensive two-week introduction to programming and
 
 ### Programming, Numpy and Pandas
 - There is not an assigned textbook for this course, but [Automate the Boring Stuff in Python](https://automatetheboringstuff.com/) is a well written, free resource. It will cover everything we discuss in class, at least the Python side, and allow you to dive as deep as you wish into the language. 
-- I'm grateful Eric Potash and his [30550 course](https://harris-ippp.github.io/) at the University of Chicago, which provided a useful basis for the material presented in this course, and some of the assigned Problem Sets.
+- I'm grateful to Eric Potash for his [30550 course](https://harris-ippp.github.io/) at the University of Chicago, which provided a useful basis for the material presented in this course, and some of the assigned Problem Sets.
   - We didn't have time to cover the Split-Apply-Combine paradigm. This is covered well in the [official Pandas documentation](https://pandas.pydata.org/docs/user_guide/groupby.html), and Problem Set 7b is available for you to practice this.
 - For more fundamental programming instruction, Google's Kaggle [Python](https://www.kaggle.com/learn/python) and [Pandas](https://www.kaggle.com/learn/pandas) courses are excellent, as are the rest of their learning materials.
 

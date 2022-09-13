@@ -74,4 +74,4 @@ This course is designed as an intensive two-week introduction to programming and
   - As an aside, to link this topic more formally to the econometrics we've covered in PP455, Bruce Hansen's (2022) [Econometrics](https://www.ssc.wisc.edu/~bhansen/econometrics/) is a well written, rigorous presentation of the material.
 
 ### Other resources
-- Chen et al's (2022) [Data Science for Public Policy](https://link.springer.com/book/10.1007/978-3-030-71352-2) touches on and expands upon the major beats we were able to cover in this course. It also covers some interesting qualitative aspects of the use of data science in a public policy setting.
+- Chen et al's (2021) [Data Science for Public Policy](https://link.springer.com/book/10.1007/978-3-030-71352-2) touches on and expands upon the major beats we were able to cover in this course. It also covers some interesting qualitative aspects of the use of data science in a public policy setting.

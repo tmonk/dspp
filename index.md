@@ -72,3 +72,6 @@ This course is designed as an intensive two-week introduction to programming and
 - The mathematics and statistics used may be a barrier to understanding the material.
   - If you're interested in developing these skills Sydsaeter et al's (2008) [Essential & Further Mathematics for Economic Analysis](https://www.pearson.com/en-gb/subject-catalog/p/further-mathematics-for-economic-analysis/P200000005529/9780273713289) and Miller & Miller's (2021) [John E. Freund's Mathematical Statistics with Applications](https://www.pearson.com/en-us/subject-catalog/p/john-e-freund-s-mathematical-statistics-with-applications/P200000006294/9780137547432) are my preferred resources for mathematics and statistics respectively. 
   - As an aside, to link this topic more formally to the econometrics we've covered in PP455, Bruce Hansen's (2022) [Econometrics](https://www.ssc.wisc.edu/~bhansen/econometrics/) is a well written, rigorous presentation of the material.
+
+### Other resources
+- Chen et al's (2022) [Data Science for Public Policy](https://link.springer.com/book/10.1007/978-3-030-71352-2) touches on and expands upon the major beats we were able to cover in this course. It also covers some interesting qualitative aspects of the use of data science in a public policy setting.
